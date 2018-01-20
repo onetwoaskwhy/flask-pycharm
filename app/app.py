@@ -1,6 +1,5 @@
 from flask import Flask
 
-
 '''
 This is a sample flask app.
 '''
