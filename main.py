@@ -1,4 +1,5 @@
 import os
+from config.config import config as cfg
 
 my_list = [1, 2]
 
@@ -9,3 +10,6 @@ myDict = {
     }
 print 'Hello world'
 print os.getenv('PATH')
+
+
+print cfg
