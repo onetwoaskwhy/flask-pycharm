@@ -1,0 +1,8 @@
+Flask
+flake8
+PyMySQL
+pymongo
+requests
+scrapy
+beautifulsoup4
+gunicorn
